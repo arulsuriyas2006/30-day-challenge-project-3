@@ -1,4 +1,4 @@
-import React,{act, useState} from 'react'
+import {useState} from 'react'
 import TimeForm from '@/components/TimeForm'
 import Timechart from '@/components/TimeChart'  
 function Home() {
